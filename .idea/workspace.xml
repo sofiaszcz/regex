@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65faf229-033c-4708-a0ab-141764b92dc3" name="Changes" comment="Add Regex001">
-      <change afterPath="$PROJECT_DIR$/src/regex/RegexTester.java" afterDir="false" />
+    <list default="true" id="65faf229-033c-4708-a0ab-141764b92dc3" name="Changes" comment="Add Regex002">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Regex002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Regex002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Regex002">
     <configuration name="Regex001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="regex.Regex001" />
       <module name="Regex" />
@@ -50,8 +51,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Regex002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Regex002" />
+      <module name="Regex" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Regex002" />
         <item itemvalue="Application.Regex001" />
       </list>
     </recent_temporary>
@@ -81,12 +90,39 @@
       <option name="project" value="LOCAL" />
       <updated>1695746657174</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add RegexTester">
+      <option name="closed" value="true" />
+      <created>1695747384188</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695747384188</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Refactored Regex001">
+      <option name="closed" value="true" />
+      <created>1695747570640</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695747570640</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Regex002">
+      <option name="closed" value="true" />
+      <created>1695749251087</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695749251087</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init repo" />
     <MESSAGE value="Add Regex001" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Regex001" />
+    <MESSAGE value="Add RegexTester" />
+    <MESSAGE value="Refactored Regex001" />
+    <MESSAGE value="Add Regex002" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Regex002" />
   </component>
 </project>
