@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65faf229-033c-4708-a0ab-141764b92dc3" name="Changes" comment="Init repo">
-      <change afterPath="$PROJECT_DIR$/src/regex/Regex001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="65faf229-033c-4708-a0ab-141764b92dc3" name="Changes" comment="Add Regex001">
+      <change afterPath="$PROJECT_DIR$/src/regex/RegexTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,11 +73,20 @@
       <option name="project" value="LOCAL" />
       <updated>1695745450251</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Regex001">
+      <option name="closed" value="true" />
+      <created>1695746657174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695746657174</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init repo" />
+    <MESSAGE value="Add Regex001" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Regex001" />
   </component>
 </project>
