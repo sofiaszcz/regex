@@ -1,3 +1,5 @@
+package regex;
+
 import regex.RegexTester;
 
 public class Regex002 {
